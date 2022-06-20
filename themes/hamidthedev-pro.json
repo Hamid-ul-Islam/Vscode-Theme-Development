@@ -8,7 +8,7 @@
 	  "titleBar.inactiveBackground": "#232a2f",
 	  "titleBar.border": "#00000060",
 	  "editor.background": "#1a2023",
-	  "editor.foreground": "#939da5",
+	  "editor.foreground": "#ffffff",
 	  "editor.selectionBackground": "#204062",
 	  "editor.selectionHighlightBorder": "#939da5",
 	  "editor.wordHighlightBackground": "#939da530",

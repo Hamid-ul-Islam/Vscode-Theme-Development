@@ -10,8 +10,11 @@ Font used: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ### Screenshots:
 
-Python
-![Python screenshot](https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/sreenshot.png)
+Colorful
+![Colorful Screenshot](https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/colorful.png)
+
+Professional
+![Professional screenshot](https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/professional.png)
 
 <br>
 

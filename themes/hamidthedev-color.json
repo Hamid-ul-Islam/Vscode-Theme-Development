@@ -60,7 +60,7 @@
       // NOTE: Strings
       "name": "String",
       "scope": "string",
-      "settings": { "foreground": "#fff06d" }
+      "settings": { "foreground": "#5bec95" }
     },
     {
       "name": "Template Definition",
@@ -340,7 +340,8 @@
     "list.dropBackground": "#414339",
     "list.highlightForeground": "#f8f8f2",
     // NOTE: Editor background color
-    "editor.background": "#171717",
+    "editor.background": "#1a2023",
+    "tab.activeBorder": "#f5ed11",
     "editor.foreground": "#F8F8F2",
     "editor.selectionHighlightBackground": "#575b6180",
     // NOTE: Active line highlighted
