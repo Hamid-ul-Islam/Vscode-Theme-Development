@@ -28,8 +28,11 @@
         "hamid theme",
         "monokai",
         "monokai theme",
-        "pro",
+        "Hamid pro",
+        "hamidthedev pro",
+        "one dark pro",
         "hamid chowdhury",
+        "atom one dark pro",
         "hamid",
         "monokai pro",
         "hamidthedev"
@@ -39,7 +42,12 @@
             {
                 "label": "HamidtheDev Professional",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai HamidtheDev-color-theme.json"
+                "path": "./themes/hamidthedev-pro.json"
+            },
+            {
+                "label": "HamidtheDev Colorful",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hamidthedev-color.json"
             }
         ]
     }
