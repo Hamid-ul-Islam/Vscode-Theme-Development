@@ -1,6 +1,6 @@
 {
     "name": "hamidthedev",
-    "displayName": "HamidTheDev (Monokai Pro)",
+    "displayName": "HamidTheDev Pro",
     "description": "monokai pro by hamidthedev",
     "version": "0.4.0",
     "engines": {
@@ -37,7 +37,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Monokai HamidtheDev",
+                "label": "HamidtheDev Professional",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai HamidtheDev-color-theme.json"
             }
