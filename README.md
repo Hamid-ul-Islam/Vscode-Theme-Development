@@ -1,4 +1,4 @@
-# [HamidTheDev Pro](https://marketplace.visualstudio.com/items?itemName=HamidTheDev.hamidthedev)
+# [Install => HamidTheDev Pro](https://marketplace.visualstudio.com/items?itemName=HamidTheDev.hamidthedev)
 
 ## [GitHub Repo](https://github.com/HamidTheDev/Vscode-Theme-Development) 
 <br><br>
