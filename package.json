@@ -24,9 +24,15 @@
         "keywords": [
             "vscode",
             "theme",
+            "dark",
+            "hamid theme",
             "monokai",
+            "monokai theme",
             "pro",
-            "hamiedev"
+            "hamid chowdhury",
+            "hamid",
+            "monokai pro",
+            "hamidthedev"
         ],
     "contributes": {
         "themes": [
