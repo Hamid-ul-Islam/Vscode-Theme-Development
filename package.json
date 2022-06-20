@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "publisher": "hamidthedev",
     "categories": [
         "Themes"
     ],
@@ -19,7 +20,7 @@
         "type": "git",
         "url": "https://github.com/hamidthedev/vscode-theme-monokai-pro"
     },
-        "icon": "https://github.com/HamidTheDev/vscode-theme-monokai-pro/blob/main/images/theme-icon.png",
+        "icon": "theme-icon.png",
         
         "keywords": [
             "vscode",
