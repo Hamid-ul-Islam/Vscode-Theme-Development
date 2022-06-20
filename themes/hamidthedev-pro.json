@@ -3,6 +3,7 @@
 	"type": "dark",
 	"colors": {
 	  "titleBar.activeBackground": "#1a2023",
+	  "tab.activeBorder": "#f5ed11",
 	  "titleBar.activeForeground": "#939da5",
 	  "titleBar.inactiveBackground": "#232a2f",
 	  "titleBar.border": "#00000060",
@@ -104,7 +105,7 @@
 		"name": "Variables",
 		"scope": ["variable", "string constant.other.placeholder"],
 		"settings": {
-		  "foreground": "#939da5"
+		  "foreground": "#ffffff"
 		}
 	  },
 	  {
