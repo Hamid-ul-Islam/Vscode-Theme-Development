@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension "hamidthedev"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# HamidTheDev Monokai Pro theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A VSCode implementation of the theme displayed on [Hamid The Dev Website](https://github.com/hamidthedev/).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Notes:
+
+Feel free to open a pull request if you notice something wrong or would like to make a change.
+
+Font used: [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+### Screenshots:
+
+Python
+![Python screenshot](https://github.com/HamidTheDev/vscode-theme-monokai-pro/blob/main/images/sreenshot.png)
+
+<br>
 
 **Enjoy!**

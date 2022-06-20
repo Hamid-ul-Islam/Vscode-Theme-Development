@@ -9,7 +9,7 @@
     "categories": [
         "Themes"
     ],
-
+    "homepage": "https://github.com/hamidthedev/vscode-theme-monokai-pro",
     "Publisher": "HamidTheDev",
     "Author": "HamidTheDev",
     "Contributors": [
@@ -19,7 +19,7 @@
         "type": "git",
         "url": "https://github.com/hamidthedev/vscode-theme-monokai-pro"
     },
-        "icon": "images/theme-icon.png",
+        "icon": "https://github.com/HamidTheDev/vscode-theme-monokai-pro/blob/main/images/theme-icon.png",
         
         "keywords": [
             "vscode",
