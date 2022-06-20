@@ -1,7 +1,7 @@
 {
     "name": "hamidthedev",
     "displayName": "HamidTheDev Pro",
-    "description": "monokai pro by hamidthedev",
+    "description": "A Pro Theme by HamidThedev",
     "version": "2.2.0",
     "engines": {
         "vscode": "^1.68.0"
@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "homepage": "https://github.com/hamidthedev/vscode-theme-monokai-pro",
+    "homepage": "https://github.com/HamidTheDev/Vscode-Theme-Development",
     "Publisher": "HamidTheDev",
     "Author": "HamidTheDev",
     "Contributors": [
@@ -18,7 +18,7 @@
     ],
     "Repository": {
         "type": "git",
-        "url": "https://github.com/hamidthedev/vscode-theme-monokai-pro"
+        "url": "https://github.com/HamidTheDev/Vscode-Theme-Development"
     },
     "license": "MIT",
     "icon": "theme-icon.png",

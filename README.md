@@ -1,6 +1,6 @@
 # [HamidTheDev Pro](https://marketplace.visualstudio.com/items?itemName=HamidTheDev.hamidthedev)
 
-## [GitHub Repo](https://github.com/HamidTheDev/vscode-theme-monokai-pro) 
+## [GitHub Repo](https://github.com/HamidTheDev/Vscode-Theme-Development) 
 <br><br>
 # HamidTheDev Pro theme
 
@@ -15,11 +15,11 @@ Feel free to open a pull request if you notice something wrong or would like to 
 
 ### Professional theme
 
-![ScreenShot](https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/professional.png)
+![ScreenShot](https://raw.githubusercontent.com/HamidTheDev/Vscode-Theme-Development/main/images/professional.png)
 
 ### Colorful theme
 
-![ScreenShot](https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/colorful.png)
+![ScreenShot](https://raw.githubusercontent.com/HamidTheDev/Vscode-Theme-Development/main/images/colorful.png)
 
 <br>
 
