@@ -11,7 +11,7 @@ Font used: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 ### Screenshots:
 
 Python
-![Python screenshot](https://github.com/HamidTheDev/vscode-theme-monokai-pro/blob/main/images/sreenshot.png)
+![Python screenshot](https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/sreenshot.png)
 
 <br>
 
