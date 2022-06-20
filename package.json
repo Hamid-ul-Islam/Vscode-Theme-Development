@@ -20,7 +20,7 @@
         "type": "git",
         "url": "https://github.com/hamidthedev/vscode-theme-monokai-pro"
     },
-    "icon": "theme-icon.png",
+    "icon": "https://raw.githubusercontent.com/HamidTheDev/vscode-theme-monokai-pro/main/images/theme-icon.png",
     "keywords": [
         "vscode",
         "theme",
