@@ -2,7 +2,7 @@
     "name": "hamidthedev",
     "displayName": "HamidTheDev Pro",
     "description": "monokai pro by hamidthedev",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -45,14 +45,11 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/hamidthedev-color.json"
             },
-
-
             {
                 "label": "HamidtheDev Professional",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hamidthedev-pro.json"
             }
-            
         ]
     }
 }
