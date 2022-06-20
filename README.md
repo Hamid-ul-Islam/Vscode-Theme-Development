@@ -1,7 +1,8 @@
-# [Install => HamidTheDev Pro](https://marketplace.visualstudio.com/items?itemName=HamidTheDev.hamidthedev)
+### Install From Here:
+# [HamidTheDev Pro Theme](https://marketplace.visualstudio.com/items?itemName=HamidTheDev.hamidthedev)
 
 ## [GitHub Repo](https://github.com/HamidTheDev/Vscode-Theme-Development) 
-<br><br>
+<br>
 # HamidTheDev Pro theme
 
 A VSCode implementation of the theme displayed on [Hamid The Dev Website](https://github.com/hamidthedev/).
