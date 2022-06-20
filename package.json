@@ -2,7 +2,7 @@
     "name": "hamidthedev",
     "displayName": "HamidTheDev (Monokai Pro)",
     "description": "monokai pro by hamidthedev",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.68.0"
     },
