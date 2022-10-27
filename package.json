@@ -49,6 +49,11 @@
                 "label": "HamidtheDev Professional",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hamidthedev-pro.json"
+            },
+            {
+                "label": "HamidTheDev Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDev-Pro.json"
             }
         ]
     }
