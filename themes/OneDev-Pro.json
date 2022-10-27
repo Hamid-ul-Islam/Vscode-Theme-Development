@@ -1,5 +1,5 @@
 {
-  "name": "HamidTheDev Pro",
+  "name": "One Dark Pro",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -2074,8 +2074,6 @@
     "editor.findMatchBorder": "#457dff",
     "editor.findMatchHighlightBackground": "#6199ff2f",
     "editor.foreground": "#abb2bf",
-    "tab.activeBorderTop": "#d50cfdeb",
-    "tab.activeBackground": "#282c34",
     "editorBracketHighlight.foreground1": "#d19a66",
     "editorBracketHighlight.foreground2": "#c678dd",
     "editorBracketHighlight.foreground3": "#56b6c2",
@@ -2160,8 +2158,10 @@
     "statusBar.noFolderBackground": "#21252b",
     "statusBarItem.remoteBackground": "#4d78cc",
     "statusBarItem.remoteForeground": "#f8fafd",
-    "tab.activeBorder": "#d50cfdeb",
-    "tab.activeForeground": "#03053a9b",
+    "tab.activeBackground": "#282c34",
+    "tab.activeBorder": "#da08ff",
+    "tab.activeBorderTop": "#da08ff",
+    "tab.activeForeground": "#dcdcdc",
     "tab.border": "#181a1f",
     "tab.hoverBackground": "#323842",
     "tab.inactiveBackground": "#21252b",
