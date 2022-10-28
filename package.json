@@ -46,14 +46,14 @@
                 "path": "./themes/hamidthedev-color.json"
             },
             {
-                "label": "HamidtheDev Professional",
+                "label": "HamidTheDev Professional",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hamidthedev-pro.json"
             },
             {
-                "label": "HamidTheDev Pro",
+                "label": "HamidTheDev Light",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDev-Pro.json"
+                "path": "./themes/hamidthedev-light.json"
             }
         ]
     }
